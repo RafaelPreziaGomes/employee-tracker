@@ -2,7 +2,7 @@
 
 This was a challenge proposed by UCF bootcamp where I was designed to create a system to track employes form different roles and departments using ES6, node and mySQL database
 
-To see the work please move towards the Master branch where I located all my work
+**To see the work please move towards the Master branch where I located all my work**
 
 # Technologies used
 
@@ -24,4 +24,6 @@ Copy the repository to your computer.
 Npm install expess can be used to install and launch express.js.
 Run npm start after saving the code.
 
+# Video
 
+Video link: https://drive.google.com/file/d/1WOf80fwlX6M0S-Os66OM824sydeLBF2U/view
