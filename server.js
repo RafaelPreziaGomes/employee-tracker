@@ -8,7 +8,7 @@ dotenv.config();
 const connection = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "W@lker!",
+  password: "",
   database: "tracker_db",
 });
 connection.connect(function (e) {
